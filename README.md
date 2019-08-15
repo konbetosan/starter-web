@@ -8,4 +8,6 @@ Sample website with plenty of files for demos
 
 ## Line 1 added by me.
 
-# Here I am in the working folder. :)
+# Copyright
+
+Copyright blah and blah and more blah.
