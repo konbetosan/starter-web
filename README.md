@@ -11,3 +11,5 @@ Sample website with plenty of files for demos
 # Copyright
 
 Copyright blah and blah and more blah.
+
+# merging...
