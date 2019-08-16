@@ -12,4 +12,4 @@ Sample website with plenty of files for demos
 
 Copyright blah and blah and more blah.
 
-# merging...
+# merging... and Adding text for rebase.
