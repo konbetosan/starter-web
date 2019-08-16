@@ -10,7 +10,7 @@ Sample website with plenty of files for demos
 
 # Copyright
 
-Copyright blah and blah and more blah.
+Copyright blah and blah and more blah. All blahs reserved!
 
 # merging... and Adding text for rebase, 
 then more changes on myfeature branch!
