@@ -12,4 +12,5 @@ Sample website with plenty of files for demos
 
 Copyright blah and blah and more blah.
 
-# merging... and Adding text for rebase.
+# merging... and Adding text for rebase, 
+then more changes on myfeature branch!
